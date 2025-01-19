@@ -41,10 +41,10 @@ def shelby():
         "3": "https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/chk_gmail_thomas.py",
         "4":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/thomas_2012_gmail_tool%F0%9F%8C%B7hh.py",
         "5":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/thomas_yopmail_insta_tool_hhhxdhh.py",
-        "6":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/2010-2025_ninjapy.py",
+        "6":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/%F0%9F%98%8E2010-2025_ninjapy.py",
         "7":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/aol_2012_ninjavpy.py",
-        "8":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/%F0%9F%96%95outlok.py",
-        "9":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/hotmail%F0%9F%96%95.py",
+        "8":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/%F0%9F%87%B9%F0%9F%87%B7out.py",
+        "9":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/%F0%9F%87%B9%F0%9F%87%B7hot.py",
         "10":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/user.py",
         "11":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/2010hhh_ninjapy.py",
         "12":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/reset_email.py"
