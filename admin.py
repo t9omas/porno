@@ -4,7 +4,7 @@ from cfonts import render
 
   
       
-kral = render('vip  [ V5 ] ', colors=['white', 'yellow'], align='center')
+kral = render('vip  [ V6 ] ', colors=['white', 'yellow'], align='center')
 print("\x1b[1;39m—" * 60)
 print(kral)
 print("~ Programmer : @T5OMAS |  Channel: @THOMASHACK ~")
