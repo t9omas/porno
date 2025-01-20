@@ -27,6 +27,7 @@ print(f"""\x1b[38;5;117m  1\x1b[38;5;231m - Listeyi Çekmek [ Takipçili ] | \x1
 \x1b[38;5;117m  10\x1b[38;5;231m -  Instagram [ Username ] Tool | \x1b[1;32m Güncel Aktif ✅
 \x1b[38;5;117m  11\x1b[38;5;231m -  [ 2010 - 2019 ] %50 hit orani  | \x1b[1;32m Güncel Aktif ✅
 \x1b[38;5;117m  12\x1b[38;5;231m -  İnsta Reset Tool   | \x1b[1;32m Güncel Aktif ✅
+\x1b[38;5;117m  13\x1b[38;5;231m -  [ 2010 - 2025 ]  Takipcili  | \x1b[1;32m Güncel Aktif ✅
 """)
 
 
@@ -47,7 +48,8 @@ def shelby():
         "9":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/%F0%9F%87%B9%F0%9F%87%B7hot.py",
         "10":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/user.py",
         "11":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/2010hhh_ninjapy.py",
-        "12":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/reset_email.py"
+        "12":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/reset_email.py",
+        "13":"https://raw.githubusercontent.com/t9omas/porno/refs/heads/main/%5B2010-2025%5D%20%5Btakipcili%5D%20%5Bvip%5D%20_nignjapy.py"
         
     }
     if secim in baglantilar:
